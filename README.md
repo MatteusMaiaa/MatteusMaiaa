@@ -2,7 +2,7 @@
 
 ---
 
-Hi there! I’m a full-stack developer with a special passion for back-end work. Currently, I’m diving into TypeScript and Angular, always looking to enhance my skills. I’m a big enthusiast of JavaScript development, especially using Node.js to build robust and efficient APIs. Feel free to check out my projects and contributions! 🚀
+Hi there! I’m a full-stack developer with a special passion for back-end work. Currently, I’m diving into TypeScript and Node.js, always looking to enhance my skills. I’m a big enthusiast of JavaScript development, especially using Node.js to build robust and efficient APIs. Feel free to check out my projects and contributions! 🚀
 
 ---
 
